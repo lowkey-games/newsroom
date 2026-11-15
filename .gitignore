@@ -1,0 +1,4 @@
+.venv/
+newsroom/state/
+newsroom/public/
+__pycache__/
